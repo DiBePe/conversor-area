@@ -95,3 +95,12 @@ button:hover {
 .oculto {
   display: none;
 }
+@media (max-width: 480px) {
+  body {
+    padding: 16px;
+  }
+
+  main {
+    padding: 24px 16px;
+  }
+}
